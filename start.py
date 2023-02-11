@@ -8,7 +8,7 @@ print("ich bin geboren")
 #print("Hallo " + name + ", du bist " + alter + " Jahre alt.")
 
 
-
+print("ich komme aus Internet")
 zahl1 = input('Gib eine Zahl ein: ')
 zahl2 = input('Gib eine zweite Zahl ein: ')
 
