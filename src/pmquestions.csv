@@ -1,0 +1,795 @@
+Category,Question
+Event Log Data,What is the most complex case?
+Event Log Data,Which are the longest and shortest cases in average?
+Analysis,Does this log adhere to the standard process?
+Event Log Data,What should I do to view the most frequent cases?
+Event Log Data,What is the most common flow of activities?
+Event Log Data,What is the mean lead time of the process instances completed today?
+Analysis,Which bottlenecks take more time?
+Analysis,What are the main bottlenecks in the process?
+Analysis,What are the bottlenecks?
+Analysis,What are the main bottlenecks in the process?
+Event Log Data,What percentage of cases follow the most common trace?
+Analysis,What are the possible root causes of slow activities in my process?
+Analysis,What is the biggest bottleneck in the log?
+Event Log Data,What are the most executed activities?
+Advanced Analysis,Is there something special I should worry about this weekend?
+Event Log Data,Which activity has the highest mean resolution time?
+Analysis,Where am I wasting the most time in the process?
+Event Log Data,Size of my log
+Event Log Data,Which is the standard model path?
+Event Log Data,Which activity takes longer to be executed?
+Analysis,How many services do not conform to the online sales model?
+Event Log Data,How many variants are there in the process?
+Analysis,What activities are time bottlenecks in the process?
+Event Log Data,What are the 10% slower cases?
+Analysis,What are the current top 3 temporal bottlenecks in my operation?
+Analysis,"Show me the main conformance issues sorted by their frequency or score, if possible."
+Analysis,What activity causes the worst bottleneck in the main variant?
+Process Model,What is the process model underlined in this log?
+Event Log Data,Show me the trace with the longest duration in hours? What is the average?
+Analysis,Which is the bottleneck that impacts the process the most?
+Event Log Data,Could you show me the variants with more than 10 cases for which the throughput time is more than 3 times the model’s average throughput time?
+Analysis,Is there any conformance issue?
+Event Log Data,What is the average number of events per case?
+Event Log Data,How many different activities are there?
+Event Log Data,What is the average process execution time?
+Event Log Data,Which is the least frequent activity in the process?
+Event Log Data,Which activity takes longer to execute?
+Analysis,Which resource currently has the longest queue of activities?
+Event Log Data,Which is the most used resource?
+Event Log Data,Which tasks use the most resources?
+Event Log Data,Which resources take the longest to execute their tasks?
+Event Log Data,What is the average process execution time for the most common cases?
+Advanced Analysis,What is the predicted completion time for case X?
+Analysis,What are the main causes of rework in this log?
+Process Model,What share of activities from the log are in the discovered process model?
+Advanced Analysis,What are your suggestions for me to reduce cost from my process?
+Event Log Data,How many processes have been completed with solved status up to 12 pm today?
+Analysis,Which process executions are not conformant to the standard process?
+Event Log Data,How much data variation does my log show?
+Event Log Data,What activities take longer to execute?
+Advanced Analysis,What if I change the order of execution of activities A and B? How would the execution time and cost change?
+Event Log Data,"Tell me what are the activities, in order of execution, that make the happy path of the log?"
+Event Log Data,What is the average time between activities A and B?
+Event Log Data,What resources take the longest to execute activity A?
+Analysis,"If I take the most frequent variant as a base, what are the main conformance issues?"
+Analysis,What are currently the 3 worst bottlenecks in my operation in terms of process queue?
+Event Log Data,Filter the traces that include activity X.
+Analysis,Is the process conformant?
+Analysis,Are there deviations in the process?
+Event Log Data,I would like to see statistics comparing variants
+Analysis,What are the main causes of bottlenecks?
+Event Log Data,What is the average case resolution time for department K in the last 3 months excluding the current month?
+Analysis,What are the bottlenecks?
+Event Log Data,How many different cases are there in the log?
+Event Log Data,What are the most and least frequent tasks?
+Event Log Data,What is the average execution time of task A?
+Event Log Data,What activity takes the longest to execute?
+Analysis,What are the bottlenecks?
+Analysis,What activities are more than 3 days late?
+Analysis,What are the invalid paths?
+Advanced Analysis,What are the top 3 process improvement proposals and what are their rationales?
+Advanced Analysis,What are my current process risks?
+Process Model,What activities create redundancies in the process?
+Event Log Data,What activities are the most executed in the process?
+Analysis,What are the most frequent nonconformances in my process?
+Event Log Data,What share of the log follow the happy path?
+Analysis,What activities in the log are not in the process model?
+Advanced Analysis,To whom should I assign the new tasks that have been added to the process?
+Analysis,Identify which tasks deviate from the standard process and who is involved?
+Event Log Data,What is my best path?
+Analysis,Could you show me the nonconformances?
+Event Log Data,What tasks are executed for all cases?
+Analysis,Which attendants do not meet the target for KPI X? 
+Event Log Data,"Present statistics for the process under analysis, such as the slowest and fastest traces, number of cases, average case execution time, etc."
+Process Model,How many connections does this process variant have?
+Analysis,Which process instances do not follow the expected model?
+Process Model,What cases contain loops?
+Analysis,What are the 3 main process nonconformances happening this week?
+Process Model,Show me only activity A and its predecessors and successors.
+Event Log Data,What is the main trace in my process?
+Event Log Data,"What are the average, minimum and maximum process duration?"
+Event Log Data,"What people are involved in cases X, Y and Z?"
+Event Log Data,How many cases do not follow the most common path?
+Event Log Data,What activity has the longest duration in the cases completed in the first quarter of 2020?
+Advanced Analysis,How can I optimize this process?
+Event Log Data,Which cases take longer and shorter in average?
+Analysis,Does the log conform to the standard process?
+Event Log Data,How can I view the most frequent traces?
+Analysis,Which activities are mostly redone in the process?
+Event Log Data,What is the most common activity path?
+Event Log Data,What is the mean lead time of today’s finished process instances?
+Analysis,What are the worst bottlenecks?
+Event Log Data,What share of cases follow the most frequent trace?
+Analysis,What are the possible root causes of slow transitions in my process?
+Analysis,What is the worst bottleneck in the log?
+Event Log Data,What activities are executed the most?
+Advanced Analysis,Is there something relevant I should worry about this weekend?
+Event Log Data,"Which activity takes longer to execute, in average?"
+Event Log Data,What is the main trace in the model?
+Event Log Data,Which activity takes longer to execute?
+Process Model,How does the discovered model look like?
+Event Log Data,How many process variants are there?
+Analysis,Which activities are the bottlenecks in the process?
+Event Log Data,What are the 10% of cases that take the longest?
+Analysis,"Currently, what are the top 3 bottlenecks in my operation?"
+Event Log Data,What cases take longer?
+Event Log Data,Show me the trace that takes longer in average.
+Analysis,Is there any non-conforming case?
+Advanced Analysis,What is the predicted completion time of case X?
+Analysis,What are the most important reworks in this log?
+Process Model,What share of paths from the log are covered by the discovered model?
+Event Log Data,How many cases have been successfully completed up to 12 pm today?
+Analysis,Which process instances are not conformant to the process?
+Event Log Data,How many different traces does my log show?
+Analysis,What are the 3 worst bottlenecks in my operation?
+Event Log Data,Show me the traces that include activity X.
+Analysis,Is the log conformant?
+Event Log Data,What is the longest trace regarding the number of activities? How many cases follow this trace?
+Analysis,What cases are more than 3 days late?
+Advanced Analysis,What are the risks for my current process?
+Event Log Data,What tasks are executed for most cases?
+Process Model,How many transitions are there in this process variant?
+Event Log Data,What share of activities have not been assigned to any resource?
+Event Log Data,What is the most complex case?
+Event Log Data,"What is the longest and shortest case, on average?"
+Analysis,Is this log compliant with the standard process?
+Event Log Data,How can I visualize the most common cases?
+Event Log Data,What is the most common flow of activities?
+Event Log Data,What is the mean lead time of all process instances executed to the present date?
+Analysis,What bottlenecks take most time?
+Analysis,What are the main bottlenecks in the process?
+Analysis,What are the bottlenecks?
+Analysis,What are the main bottlenecks in the process?
+Event Log Data,What percentage of cases encompass the most common trace?
+Analysis,What are the potential root causes for the slowness in my process?
+Analysis,What is the main bottleneck in the log?
+Event Log Data,What activities are executed the most?
+Advanced Analysis,Is there something I should worry about this weekend?
+Analysis,Where am I losing most time in the process?
+Event Log Data,Log quantity
+Event Log Data,Which activity takes the longest to be executed?
+Analysis,What volume of interactions is not in conformance with the online sales model?
+Event Log Data,How many variants does this process model have?
+Analysis,What activities are time bottlenecks in the process?
+Event Log Data,What are the 10 slowest cases?
+Analysis,What are the first 3 process time bottlenecks in my operation nowadays?
+Analysis,Show me the main conformance issues ordered by their frequency or score (if possible).
+Analysis,What activity is causing the biggest bottleneck based on the the main variant?
+Process Model,What is the process model created to this log?
+Analysis,What is the main bottleneck that deeply impacts the process?
+Event Log Data,Can you show me the variants that have more than 10 cases and that take longer than 3 times the average lead time in the process?
+Analysis,Is there a non conformance?
+Event Log Data,What is the average number of events per case?
+Event Log Data,How many distinct tasks are there?
+Event Log Data,What is the average execution time of the process?
+Event Log Data,What is the least executed activity in the process?
+Event Log Data,What activity takes the longest to take place?
+Analysis,What resource/actor has more queueing activities right now?
+Event Log Data,What is the most accessed resource?
+Event Log Data,What tasks take more resources?
+Event Log Data,What is the average duration of the process for the most common cases?
+Advanced Analysis,What is the expected time to close case X?
+Analysis,What causes more rework in this log?
+Process Model,What percentage of the activities in the log does the process model encompass?
+Advanced Analysis,Do you have any suggestion to reduce the costs in my process?
+Event Log Data,How many processes were finished with status solved today  until x o’clock?
+Analysis,What were the process executions that are non compliant with the standard process?
+Event Log Data,How much variance is there in the log data?
+Event Log Data,What activities have the longest execution time interval?
+Advanced Analysis,"If I altered the execution order between activity “A"" and activity “B”, what would be the change in time and cost associated with the change? (What-if analysis creation)"
+Event Log Data,"Tell what are the activities, in execution order, that are part of the happy path of the log under analysis."
+Event Log Data,What is the average time between activities A and B?
+Event Log Data,"For activity A, what resources take more time to execute it?"
+Analysis,"Taking the main variant as basis, what are the main conformance problems?"
+Analysis,What are the first three bottlenecks in terms of the process queueing in my operations lately?
+Event Log Data,Filter the paths that contain activity X.
+Analysis,Is the process conformant?
+Analysis,What are the non conformances in the process?
+Event Log Data,I would like to see the statistical comparisons among variants.
+Event Log Data,Show me the longest trace and the number of associated cases.
+Analysis,What are the main causes of bottlenecks?
+Event Log Data,What is the mean time to resolve cases in department K over the previous three months?
+Analysis,What are the bottlenecks?
+Event Log Data,How many different cases are there in the log?
+Event Log Data,What are the most and least frequent tasks?
+Event Log Data,What is the mean time to execute task A?
+Event Log Data,What activity takes the longest to be executed?
+Analysis,What are the bottlenecks?
+Analysis,What activities are more than 3 days late?
+Analysis,What are the invalid paths?
+Advanced Analysis,What are the top 3 process review suggestions and the reasoning behind them?
+Advanced Analysis,What risks does my process face?
+Process Model,What activities are redundant in my process?
+Event Log Data,What are the most executed activities in my process?
+Analysis,What are the most common non-conformances in my process?
+Event Log Data,What percentage of the log is part of the happy path?
+Analysis,What activities in the log are not in the process model?
+Advanced Analysis,Who should I assign to execute these new tasks that were added to the process?
+Analysis,Identify what tasks deviate from the standard process and who is involved?
+Event Log Data,What is my best path?
+Analysis,Could you show the non-conformances?
+Event Log Data,What task is executed in every case?
+Analysis,What attendees are not fulfilling the KIP X?
+Event Log Data,"Describe the general statistics of the analysed process, such as the slowest and quickest traces, number of cases, mean time execution of cases, etc."
+Process Model,What is the number of connections of this process variant?
+Analysis,What instances of the process diverge from the expected model?
+Process Model,What cases have loops?
+Analysis,What are the 3 main non-conformances happening this week?
+Process Model,Show me activity A and its predecessors and successors (linked by a direct edge).
+Event Log Data,What is the main path of my process?
+Event Log Data,"What are the mean, max and min duration of my process?"
+Event Log Data,What people were involved in case X?
+Event Log Data,"How many cases differ from the ideal path, that means, the most common path in the log?"
+Event Log Data,What is the activity with the longest duration considering only cases that were closed in the first quarter of 2020?
+Advanced Analysis,How can I optimize this process?
+Event Log Data,Which is the most complex case?
+Event Log Data,"Which case takes the longest and the shortest, on average?"
+Analysis,Is this log adherent to the standard process?
+Event Log Data,How do I access the most frequent cases?
+Event Log Data,Which is the most common activity flow?
+Event Log Data,What is the average lead time of the instances of the process concluded today?
+Analysis,What bottlenecks take the longest?
+Analysis,What are the main bottlenecks of the process?
+Analysis,What are the bottlenecks?
+Analysis,What are the main bottlenecks of the process?
+Event Log Data,What percentage of the cases contemplate the most common trace?
+Analysis,What are the possible root causes of the slowness of my process?
+Analysis,Which is the greatest bottleneck of the log?
+Event Log Data,Which activities are executed the most?
+Advanced Analysis,Is there anything special I need to worry about this weekend?
+Event Log Data,What part of my process takes the longest?
+Event Log Data,How many entries are there in my log?
+Event Log Data,Which activity takes the longest to be executed?
+Event Log Data,How many variants are there in my process model?
+Analysis,Which activities represent bottlenecks in the process?
+Analysis,What are my 3 biggest bottlenecks?
+Analysis,Show me my main problems ranked by frequency.
+Analysis,Which activity creates the biggest bottleneck on this variant?
+Process Model,What is the process model that underlies this log?
+Event Log Data,Show me the trace that takes the longest. What is the average?
+Analysis,Which bottleneck has the greatest impact on the process?
+Event Log Data,Show me the variants that have 10 or more cases and a throughput time higher than 3 times the average time of the model.
+Analysis,Is there a conformancy deviation?
+Event Log Data,What is the average number of events per case?
+Event Log Data,How many distinct tasks are there?
+Event Log Data,What is the average execution time of the process?
+Event Log Data,What is the least recurrent activity of the process?
+Event Log Data,Which activity takes the longest to occur?
+Analysis,What resource has the most activities in line lately?
+Event Log Data,What is the most accessed resource?
+Event Log Data,Which tasks demand the most resources?
+Event Log Data,Which resources take longest?
+Event Log Data,What is the average duration of the process on the most common cases?
+Advanced Analysis,What is the conclusion time prediction of a specific case?
+Analysis,What causes the most reworks?
+Process Model,What percentage of the complete log activities are contemplated by the created process model?
+Advanced Analysis,What are some suggestions to reduce the costs of my process?
+Event Log Data,How many processes were completed today as solved?
+Analysis,What are the process executions that are not according to the default process?
+Event Log Data,What is the data variation of my log?
+Event Log Data,Which activities have the longest execution time interval?
+Advanced Analysis,"If I altered the execution order of activities A and B, what would the elapsed time and the cost variation?"
+Event Log Data,"What are the activities, in order of execution, that form the happy path of the analysed log?"
+Event Log Data,What is the average time between activities A and B?
+Event Log Data,Which resources take the longest to execute activity A?
+Analysis,What are the main conformancy problems in the most frequent variant?
+Analysis,What are the 3 main bottlenecks of my operation in terms of the size of the processing line?
+Event Log Data,Filter some traces that contain activity X.
+Analysis,Is the process in conformancy?
+Analysis,What are the existing deviations of the process?
+Event Log Data,Show me the comparison between variants.
+Analysis,What are the main causes of my bottlenecks?
+Event Log Data,What is the average solving time of department K in the past 3 finished months?
+Analysis,What are the bottlenecks?
+Event Log Data,How many different cases are there in the log?
+Event Log Data,Which are the most and least frequent tasks?
+Event Log Data,What is the average execution time of task A?
+Event Log Data,Which activity takes the longest to be executed?
+Analysis,What are the bottlenecks?
+Analysis,Which activities are late for more than 3 days?
+Analysis,What are the invalid traces?
+Advanced Analysis,What are the risks of my current process?
+Process Model,Which activities are creating the most redundancies in the process?
+Event Log Data,What are the most used activities in the process?
+Analysis,What are the most frequent non-conformancies of my process?
+Event Log Data,What percentage of this log is part of the happy path?
+Analysis,What activities from the log are in the process model?
+Advanced Analysis,Who should I realocate to perform the new tasks that were added to the process?
+Analysis,Which tasks have deviations from the default process and who are the responsible?
+Event Log Data,What is the best trace?
+Analysis,What are the non-conformancies?
+Event Log Data,Which task is performed in every case?
+Analysis,Which resources are not reaching the KPI goal X
+Event Log Data,Describe the basic statistics of the analised process?
+Process Model,What is the amount of connections of this process variant?
+Analysis,Which instances of the process are not according to the expected model?
+Process Model,Which cases have loops?
+Analysis,What are the 3 main non-conformancies of this week's process?
+Process Model,Show me activity A and its preceding and succeeding activities only.
+Event Log Data,What is the main trace of my process?
+Event Log Data,"What are the average, maximum and minimum duration times of the process?"
+Event Log Data,What people are involved in a certain case?
+Event Log Data,How many cases differ from the ideal path?
+Event Log Data,Which activity has the longest duration considering just the concluded cases of the first trimester of 2020?
+Advanced Analysis,How can I optimize this process?
+Event Log Data,How many distinct events are there in the log?
+Event Log Data,How many distinct activities are there?
+Event Log Data,What is the minimum process execution time?
+Process Model,"How can I view the process, including the time for each activity?"
+Event Log Data,Which activity occurs more frequently?
+Event Log Data,How many activities are there in the model?
+Analysis,How many activities are not in the model?
+Process Model,How to classify the model according to standard quality metrics?
+Process Model,What is the quality of the model and what is the metric?
+Process Model,Describe the model that covers up to 80% of all cases.
+Process Model,What are the metrics for the discovered process model?
+Process Model,Why not all activities appear in the process model?
+Process Model,Does the discovered process model cover the flow of events from the log?
+Process Model,Which model has the best quality metrics for this process?
+Event Log Data,Which is my most common path for the model?
+Process Model,What are the quality metrics for the discovered model?
+Process Model,What is the fitness for the discovered model?
+Process Model,Show me information about the quality of the generated model.
+Process Model,What is the type of the discovered process model?
+Process Model,What share of the cases does this process model cover?
+Process Model,What are the decision making points (XOR) in the process?
+Event Log Data,What is the model’s performance?
+Process Model,Show me everything that is in the log but was discarded when building this model.
+Event Log Data,Which path has the highest cost?
+Process Model,What is the process model underlined in this log?
+Process Model,What are the quality metrics for the model?
+Event Log Data,What is the average duration of the cases that do not follow the most common path?
+Process Model,"From the models discovered by the algorithms X, Y, Z, which is the best model?"
+Event Log Data,How many variants have been identified?
+Process Model,Quality metrics
+Analysis,Which activities are bottlenecks?
+Process Model,What are the standard quality metrics for the model?
+Process Model,What are the quality metrics for this model?
+Process Model,What activities are not in the process model?
+Process Model,Does the discovered process model cover all paths in the log?
+Process Model,What are the differences between the discovered and expected models?
+Event Log Data,How many different events are there in the log?
+Event Log Data,How many distinct activities are there?
+Event Log Data,What is the minimum time to execute the process?
+Process Model,How can I visualize the process with the time associated to each activity?
+Event Log Data,What activity happens more often?
+Event Log Data,How many activities does the model have?
+Analysis,How many activities are not covered by the model?
+Process Model,How can you classify the model according to quality standard measures?
+Process Model,What is the quality of this model and what is the metric?
+Process Model,Describe the model that represents 80% of all cases.
+Process Model,What are the metrics associated with the discovered process model?
+Process Model,Why do not all activities appear in the process model?
+Process Model,Does the given process model encompass the event flow in the log? 
+Process Model,What model has the best quality metrics for this process?
+Event Log Data,What is the most common path in the model?
+Process Model,What are the quality measure of the discovered process?
+Process Model,What is the fitness of the discovered process?
+Process Model,Tell me about the quality of the discovered model.
+Process Model,What is the model type of the discovered process?
+Process Model,What percentage of the cases does this process model cover?
+Process Model,What are the decision points in the process?
+Event Log Data,What is the performance of the model?
+Process Model,Show me everything that is in the log but was discarded in the model.
+Event Log Data,What path generates more cost?
+Process Model,What is the process model related to the event log? 
+Process Model,What are the quality metrics of the model?
+Event Log Data,What is the mean duration of the cases that differ from the most common path?
+Process Model,"Following the models discovered by algorithms X, Y and Z, which is the best one?"
+Event Log Data,What is the number of identified variants?
+Process Model,Quality metrics.
+Event Log Data,How many different events are there in the log?
+Event Log Data,How many distinct activities are there?
+Event Log Data,What is the minimum execution time of the process?
+Process Model,How do I view the process with the time of each activity?
+Event Log Data,Which activity happens the most frequent?
+Event Log Data,How many activities does the model have?
+Analysis,How many activities are not covered by the model?
+Process Model,How is the model classified according to the standard quality ratings?
+Process Model,What is the quality of this model and what are the metrics?
+Process Model,Describe the model that represents 80% fo all cases.
+Process Model,What are the metrics of this process model?
+Process Model,Why are not all of the activities shown in the process model?
+Process Model,Does the process model contemplate the event flow of the log?
+Process Model,Which model has the best quality metrics for this process?
+Event Log Data,What is the most common trace of the model?
+Process Model,What are the quality metrics of the model?
+Process Model,What is the fitness of the model?
+Process Model,Inform me on the quality of the model.
+Process Model,What is the type of model?
+Process Model,What percentage of cases does the model cover?
+Process Model,What are the decision-making points of the process?
+Event Log Data,What is the performance of the model?
+Event Log Data,Which trace generates the biggest expenses?
+Process Model,What is the process model subadjacent to the event log?
+Process Model,What are the quality metrics of the model?
+Event Log Data,What is the average duration of the cases that differ from the most common traces?
+Process Model,"Based on the discovered model, which of X, Y and Z is the best model?"
+Event Log Data,What is the identified number of variants?
+Process Model,Quality metrics.
+Event Log Data,What is the share of the most frequent case?
+Analysis,Is there any activity that does not conform to the standard process?
+Analysis,How can I view the most frequent non conformance?
+Process Model,What activities are not in the model discovered by the tool?
+Process Model,Is there any trace not covered by the process?
+Analysis,What is the rate of non conformances today?
+Process Model,What is the model fitness?
+Analysis,What are the main conformance opportunities?
+Analysis,What is the level of conformance?
+Analysis,How many processed cases deviate from the model?
+Process Model,What is the discovered model fitness?
+Analysis,Who is the resource responsible for the most frequent non conformances?
+Event Log Data,Do instances vary too much?
+Analysis,Is the discovered process model conformant to the existing process model?
+Analysis,What activities are not being executed that can impact the quality of service?
+Analysis,Identify traces that didn’t pass credit evaluation in payment?
+Analysis,Which cases are less conformant?
+Analysis,Which executed task does not adhere to the standard?
+Process Model,Show me information about the quality of the processed log.
+Analysis,Which cases differ from the correct process the most?
+Analysis,How many violations are there in this process?
+Event Log Data,Which process instances execute activity B without executing activity A?
+Analysis,What conformance issues happen the most?
+Analysis,What are the main conformance deviations in 30 days?
+Analysis,What is the share of cases that conform?
+Analysis,What are the deviations from the expected model? Why did they happen?
+Event Log Data,Which cases present the same date and time?
+Event Log Data,Are there activities not associated to any resource?
+Analysis,Show deviations
+Event Log Data,What share of cases follow the most frequent trace?
+Analysis,What are the main conformance issues?
+Event Log Data,What is the percentage of the most common cases?
+Analysis,Is there an activity that is non-conformant with the standard process?
+Analysis,How can I visualize the most frequent non-conformances?
+Process Model,What activities do not belong to the model proposed by the tool?
+Process Model,Is there a trace that is not covered by the process?
+Analysis,What is the rate of non-conformances today?
+Process Model,What is the fitness of the model?
+Analysis,What are the main conformance opportunities?
+Analysis,What is the level of conformance?
+Analysis,How many processed cases deviate from the model?
+Process Model,What is the fitness of the discovered model?
+Analysis,What resource is responsible for most of the non-conformances?
+Event Log Data,Is there a lot of variation in instances?
+Analysis,Is the given process model conformant with the existing process model?
+Analysis,What non-executing activities might be impacting the service quality?
+Analysis,Identify the traces that did not execute credit analysis in the payment.
+Analysis,What cases are less conformant?
+Analysis,What executed task is not compliant with the standard?
+Process Model,Tell me about the quality of the processed log.
+Analysis,What cases diverge from the correct process?
+Analysis,How many violations are there in this process?
+Event Log Data,What process instances execute activity B without executing activity A?
+Analysis,What are the conformance issues with most occurences?
+Analysis,What were the main non-conformances that happened for 30 days?
+Analysis,What is the percentage of non-conformant cases?
+Analysis,What are the deviations from the expected model that happed? Why did they happen?
+Event Log Data,What cases present the same dates and times?
+Event Log Data,Are there executed activities without resource identification?
+Analysis,List deviations.
+Event Log Data,What is the percentage of the most frequent case?
+Analysis,Is there any activity that is not according to the default process?
+Analysis,How do I visualise the most frequent non-conformancies?
+Process Model,Which activities are not in the proposed model?
+Process Model,Is there a trace that is not covered by the process?
+Analysis,What is the percentage of non-conformancies today?
+Process Model,What is the fitness of the model?
+Analysis,What are the main conformancy opportunities?
+Analysis,What is the conformancy level?
+Analysis,How many processed cases deviate from the model?
+Process Model,What is the fitness of the model?
+Analysis,What is the resource responsible fro the most frequent non-conformancies?
+Event Log Data,Is there a big instance variation?
+Analysis,Is the presented process model according to the existant process model?
+Analysis,What are the non-accomplished activities that might impact the quality of the service?
+Analysis,Identify the traces that did not pass through credit evaluation on payment.
+Analysis,Which cases are the least conformant?
+Analysis,Which executed task is not adherent to the standard process?
+Process Model,Inform me on the quality of the processed log.
+Analysis,Which cases differ the most from the correct process?
+Analysis,How many violations are there in the process?
+Event Log Data,Which instances of the process execute activity B without executing activity A?
+Analysis,What are the conformancy problems with the most occurences?
+Analysis,What are the main conformancy deviations during the last 30 days?
+Analysis,What is the percentage of cases in conformancy?
+Analysis,Which are the deviations? Why do they occur?
+Event Log Data,Which cases have the same date and time?
+Event Log Data,Are there activities executed without the identification of the resource?
+Analysis,Relate deviations.
+Event Log Data,Which resource has executed more tasks?
+Analysis,Which are the most and the least expensive resources?
+Event Log Data,Who is responsible for executing task A?
+Analysis,What people have the most connections?
+Event Log Data,Which resources execute which activities?
+Analysis,Which resource is associated to the most rework last week?
+Analysis,Which resources have the most links? Which have the least links?
+Event Log Data,What are the resources assigned to the fastest cases?
+Event Log Data,What are the most used resources?
+Analysis,Is it possible to view rework between departments by analyzing resource activity? 
+Analysis,Are there people working in multiple activities?
+Analysis,What is the relationship between the identified groups?
+Event Log Data,Which employee has executed task A the most?
+Process Model,What are the possible start and end processes in my log?
+Event Log Data,Which user executes more tasks?
+Analysis,"Given the resources, are there any invalid interaction?"
+Analysis,What are the two resources in the social network that have more interactions in the event log?
+Event Log Data,What is average number of users per case?
+Event Log Data,Who are the fastest resources in average on task execution?
+Analysis,Which resource is more demanded?
+Event Log Data,What resources are mostly used in the process?
+Analysis,Who used the least resources?
+Analysis,Are there areas in the company that are causing bottlenecks or slowing down process execution?
+Analysis,What resources have been used the most by what users in what period of time?
+Event Log Data,Which is the most common event in the traces?
+Event Log Data,Which resources acts on the most variants?
+Analysis,Which resources are bottlenecks?
+Process Model,What are the possible start and end activities in my log?
+Analysis,What interactions happen as a result of task A?
+Event Log Data,Which resource performs more tasks?
+Analysis,Are there invalid interactions between resources?
+Analysis,Who are the two resources that interact the most according to the event log?
+Event Log Data,What is the average number of resources assigned to a case?
+Event Log Data,Which resource is assigned the most tasks?
+Analysis,Which department used less resources?
+Event Log Data,What resources have been used the most in what period of time?
+Event Log Data,Which is the most common activity in the traces?
+Event Log Data,Which resource is used most frequently? Is he/she the fastest and most efficient resource?
+Event Log Data,Which resources act on the most cases?
+Event Log Data,What resource executed most of the tasks?
+Event Log Data,What is the most costly and the least costly resource?
+Event Log Data,Who is responsible for the execution of task A?
+Analysis,What resources have the largest number of connections?
+Event Log Data,What resources execute what activities?
+Analysis,What resource had the largest number of reworks last week?
+Analysis,What resources have more connections? Which have less?
+Event Log Data,What resources are associated with the fastest cases?
+Event Log Data,What are the most used resources?
+Analysis,Is it possible to visualize reworks among departments by the analysis of resource activities?
+Event Log Data,Are there people working on more than one activity type?
+Analysis,What is the resource’s social network?
+Analysis,What is the relationship between the identified groups?
+Event Log Data,What is the employee that executed task A the most?
+Process Model,What are the possible process start and end in my log?
+Event Log Data,Which user executes more tasks?
+Analysis,"Given the resources, is there an unwanted interaction?"
+Analysis,What are the resources in the social network that have the largest interaction in the event log?
+Event Log Data,What is the average number of users per case?
+Event Log Data,What resources are the quickest in the executions of the tasks?
+Event Log Data,What is the resource that gets most demands?
+Event Log Data,What are the most used resources in the process?
+Analysis,Who used less resources?
+Analysis,Are there departments that are causing bottlenecks or making the process take too long?
+Event Log Data,What resource were used the most by what users and when?
+Event Log Data,What is the most common event in all traces?
+Event Log Data,What resource operates on the largest number of variants?
+Analysis,What resources can be considered bottlenecks?
+Event Log Data,Which is the most and least expensive resource?
+Event Log Data,Who are the responsible for the execution of task A?
+Analysis,What resources have the biggest amount of connections?
+Event Log Data,What resources execute what activities?
+Analysis,Which resource has the biggest rework in the last week?
+Analysis,Which resource has the most and the least connections?
+Event Log Data,What are the resources related to the fastest cases?
+Event Log Data,What are the most used resources?
+Analysis,How do I visualise reworks among departments through the analysis of the resources activities?
+Event Log Data,Are there people acting in more than one type of activity?
+Analysis,What is the relation between the identified groups?
+Event Log Data,Which employee executed task A the most?
+Process Model,What are the possible start and end of my process?
+Event Log Data,Which user executes the most tasks?
+Analysis,What are the 2 social network resources that have the most interactions in the log?
+Event Log Data,What is the average number of users per case?
+Event Log Data,Which resources are the most agile in task execution?
+Event Log Data,Which resource has the biggest demand?
+Event Log Data,What are the most used resources?
+Analysis,Who makes the least use of the resource?
+Analysis,What areas of the company generate bottlenecks?
+Event Log Data,Which resources were used the most by which users in which time?
+Event Log Data,What is the most common event to all traces?
+Event Log Data,Which resource acts in the biggest number of variants?
+Analysis,Which resources are bottlenecks?
+Event Log Data,What is the average duration of transitions?
+Analysis,Which activities contain the biggest process bottlenecks?
+Event Log Data,What activity takes longer to execute?
+Event Log Data,How to filter the slowest cases only?
+Event Log Data,What activities take the longest to complete?
+Event Log Data,Which trace took longer?
+Event Log Data,What activities show a variation of more than 50% in their execution time comparing to yesterday?
+Event Log Data,What attributes are similar in the fastest and the slower cases?
+Event Log Data,Identify all slow transitions found in the model.
+Analysis,What is the bottleneck probability for activity A?
+Event Log Data,Is it possible to suggest shortcuts to slow transitions based on the fastest cases?
+Analysis,What activity contains the worst time bottleneck in a case?
+Event Log Data,How long do cases take in average to execute?
+Event Log Data,What process took the longest in the past 4 weeks?
+Event Log Data,Where do I spend the most time in my execution flow?
+Event Log Data,What cases take longer and how frequent are they?
+Analysis,What are the probable causes of this bottleneck?
+Event Log Data,What is the average process execution time?
+Process Model,What is the total time for activities with self-loops?
+Analysis,How many cases go through the three slowest bottlenecks of the process under analysis?
+Event Log Data,What are the fastest and slowest throughputs?
+Process Model,What share of time does process instances spend on rework?
+Event Log Data,What transitions take the highest average time?
+Event Log Data,What transitions have the highest standard deviations?
+Analysis,Highlight me the bottleneck activities and the possible root causes.
+Event Log Data,Which process variant takes the longest?
+Analysis,What is the reason for some cases being slow?
+Event Log Data,What are the longest execution times and what are the reasons?
+Analysis,What cases have slow transitions and the most bottlenecks?
+Event Log Data,How many variants take longer than 3 days in average?
+Event Log Data,What activities take most of the time?
+Analysis,Which activities are the worst process bottlenecks?
+Event Log Data,What is the minimum and maximum case duration? How is their duration related to the executed activities?
+Analysis,Which activity is the worst time bottleneck?
+Event Log Data,What cases took the longest in the past 4 weeks?
+Event Log Data,What traces take longer and how frequent are they?
+Analysis,What is the share of cases that go through the three slowest bottlenecks of the process under analysis?
+Event Log Data,What are the lowest and highest throughput time?
+Event Log Data,What is the average transition time?
+Analysis,What activities are the bottlenecks in the process?
+Event Log Data,What activity has the longest execution time?
+Event Log Data,How can I filter only the slowest cases?
+Event Log Data,What activities take the longest to finish?
+Event Log Data,What trace took the longest?
+Event Log Data,What activities have had more than 50% of variation in the execution time in comparison to yesterday?
+Event Log Data,What is the max and min activity times?
+Event Log Data,What attributes correlate with the quickest and slowest cases?
+Event Log Data,Identify all slow transitions in the model.
+Analysis,What is the probability of having a bottleneck in activity A?
+Event Log Data,Can you suggest shortcuts to avoid slow transitions based on the fastest cases?
+Analysis,What activity is the most important bottleneck of a case?
+Event Log Data,How long does it take on average to execute each case?
+Event Log Data,What processes took the longest to execute in the last 4 weeks?
+Event Log Data,Where am I spending most time in my execution flow?
+Event Log Data,What cases take the longest and what is their frequency?
+Analysis,What are the probable causes of this bottleneck?
+Event Log Data,What is the average execution time of the process?
+Process Model,What is the total execution time of the activities that execute self-loops?
+Analysis,What is the number of cases that pass through the slowest 3 bottlenecks in the process?
+Event Log Data,What is quickest and the slowest throughput?
+Process Model,What percentage of the execution time is spent on reexecuting tasks?
+Event Log Data,What are transitions with the largest mean execution time?
+Event Log Data,What transitions had the largest standard deviation?
+Analysis,Highlight the bottleneck activities and their potential root causes.
+Event Log Data,What variant of the process takes the longest?
+Analysis,What is the cause of the slow cases?
+Event Log Data,What were the longest execution times and their causes?
+Analysis,What cases have slow transitions and the largest number of bottlenecks?
+Event Log Data,How many variants have an execution time bigger than 3 days?
+Event Log Data,What activities take most of the time?
+Event Log Data,What is the average duration of the transitions?
+Analysis,In what activities are the 2 biggest bottlenecks of the process?
+Event Log Data,Which activity has the biggest execution time?
+Event Log Data,How do I filter only the slowest cases?
+Event Log Data,What activities take the longest?
+Event Log Data,Which trace took the longest?
+Event Log Data,Which activities have a variation of 50% or more in the conclusion time compared to yesterday?
+Event Log Data,What are the main similar atributes among the fastest and slowest cases?
+Event Log Data,Identify all the slow transitions in the model.
+Analysis,What is the probability of bottleneck in the activity A?
+Event Log Data,Is there any suggestion on shortcuts for slow transitions based on the quickest cases?
+Analysis,In which activity is the biggest bottleneck of a case?
+Event Log Data,"How much time does a case take, in average?"
+Event Log Data,Which processes took the most time in the last 4 weeks?
+Event Log Data,What takes the most time in my execution flow?
+Event Log Data,What cases take the longest and what is their frequency?
+Analysis,What are the probable causes of this bottleneck?
+Event Log Data,What is the average execution time?
+Process Model,What is the total amount of time of the activities that execute a self-loop?
+Analysis,How many cases pass through the 3 slowest bottlenecks of the process?
+Event Log Data,What is the fastest and the slowest throughput?
+Process Model,What time percentage is spent in task repetition?
+Event Log Data,What transitions have the greatest time average?
+Event Log Data,What transitions have the greatest standard deviations?
+Analysis,Identify the activities considered bottlenecks and its possible root causes.
+Event Log Data,Which variant generates the longest time?
+Analysis,For what reason are some cases slow?
+Event Log Data,What are the biggest executions time and what are the causes?
+Analysis,Which cases have the most bottlenecks and the slowest transitions?
+Event Log Data,How many variants are there with an average time of 3 days or over?
+Event Log Data,Which activities take the longest time?
+Event Log Data,What is the ideal duration for case X
+Advanced Analysis,What is the most probable path for incomplete activities?
+Advanced Analysis,"I’ve just finished task X, which is the next task I should work on?"
+Advanced Analysis,"Given activity A, which activity should I work on?"
+Event Log Data,Which instance is the most overdue?
+Advanced Analysis,When are incomplete instances predicted to finish?
+Advanced Analysis,What is the estimated completion time for case X?
+Advanced Analysis,What is the lowest predicted cost and time to complete case X?
+Advanced Analysis,When is the ongoing A activity predicted to complete?
+Advanced Analysis,What is the hit probability and standard deviation for a completion time prediction?
+Advanced Analysis,What is the predicted completion time for process X that is currently running activity A?
+Advanced Analysis,What activity is the most likely to happen after activity A?
+Advanced Analysis,When will case X finish?
+Advanced Analysis,What processes will finish successfully by the end of the day? given the results of day x?
+Advanced Analysis,How would my process behave if I remove task A?
+Advanced Analysis,Where may this instance hit a bottleneck before it completes?
+Advanced Analysis,What is the probability of instance X executing task A?
+Advanced Analysis,Do I need to intervene in any running case?
+Advanced Analysis,What is the probability that the running case takes more time to finish than the current average completion time observed in the log?
+Advanced Analysis,How much time will the next activity add to the total time?
+Advanced Analysis,Which ongoing process instances are likely to execute task A in the future?
+Advanced Analysis,Which cases are predicted to have nonconformances?
+Advanced Analysis,What activities are more likely to run into nonconformances?
+Advanced Analysis,Which cases will take longer than average?
+Advanced Analysis,"What is the expected duration for a case, considering it already have some completed activities?"
+Advanced Analysis,What will be the next activity and what resources will it require?
+Advanced Analysis,How many cases may run into bottlenecks according to the most common path?
+Advanced Analysis,What share of instances will fail? What share of failed instances were predicted to succeed? Error rate between the actual and predicted processes?
+Advanced Analysis,What is the expected completion time for the cases that are running for more than 1 week?
+Advanced Analysis,Will this case be approved in a day?
+Event Log Data,How long should case X take?
+Advanced Analysis,What is the most probable path for incomplete cases?
+Advanced Analysis,Which activity should I work on after activity A is completed?
+Event Log Data,Which instances are late?
+Advanced Analysis,What is the predicted completion time for case X that is currently running activity A?
+Advanced Analysis,What cases will finish successfully by the end of the day?
+Advanced Analysis,Which ongoing cases have nonconformances?
+Advanced Analysis,What cases are more likely to have nonconformances?
+Advanced Analysis,Show me all inaccurate predictions we do.
+Advanced Analysis,How long is case x expected to take?
+Advanced Analysis,What will be the next activity for case X and what resources will it require?
+Advanced Analysis,How many cases are predicted to run into bottlenecks?
+Advanced Analysis,What share of instances will fail? What share of failed instances were predicted to succeed? What is the prediction error rate?
+Advanced Analysis,Will this case be completed today?
+Event Log Data,What is the ideal time for case X?
+Advanced Analysis,What is the most probable path for the incomplete activities?
+Advanced Analysis,"I just executed activity X, what is the next task I should execute?"
+Advanced Analysis,"Given activity A, what activity should I do?"
+Event Log Data,What instance is late for its conclusion?
+Advanced Analysis,"Considering unfinished instances, according to the mean time, what is the prediction to complete?"
+Advanced Analysis,What is the estimate to finish case X?
+Advanced Analysis,What is the minimum predicted time and cost to finish this case?
+Advanced Analysis,What is the prediction for ending the ongoing A activity?
+Advanced Analysis,What is the confidence and the standard deviation of the time prediction to finish one case?
+Advanced Analysis,What is the prediction to finish process X that is in activity A?
+Advanced Analysis,What is the most likely activity to happen after activity A?
+Advanced Analysis,When will case X finish?
+Advanced Analysis,"What processes will finish successfully today, given the results of day X?"
+Advanced Analysis,How does my process behave if we remove task A?
+Advanced Analysis,Where may this instance have a bottleneck until its conclusion?
+Advanced Analysis,What is the probability of instance X to execute task A?
+Advanced Analysis,Do I need to intervene on any ongoing case?
+Advanced Analysis,What is the probability that the case finishes later than the average duration time in the log?
+Advanced Analysis,How much time will the next activity increase in the overall duration?
+Advanced Analysis,What ongoing process instances indicate the execution of task A?
+Advanced Analysis,What are the activities with more chances of becoming a non-conformance?
+Advanced Analysis,"For all wrong predictions, show me a list with probability of the activity actually happening, order by smallest to biggest probability."
+Advanced Analysis,What cases will exceed the mean duration?
+Advanced Analysis,"What is the expected duration of a case, considering the case had already executed some activities?"
+Advanced Analysis,What will the next activity be and what resources will it involve?
+Advanced Analysis,How many cases may face bottlenecks according to the most common path observed?
+Advanced Analysis,What is expectation for finishing the cases that are open for over 1 week?
+Advanced Analysis,Will this case ever be approved?
+Event Log Data,What is the ideal time to case X?
+Advanced Analysis,What is the most propable path for the incomplete activities?
+Advanced Analysis,Which activity should I execute immediately after activity X?
+Advanced Analysis,"Given activity A, which activity should I execute?"
+Event Log Data,Which instance is the most late?
+Advanced Analysis,What is the conclusion estimate for case X?
+Advanced Analysis,What is the minimum cost and time prediction for the conclusion of the case?
+Advanced Analysis,What is the conclusion prediction of activity A?
+Advanced Analysis,What is the hit and standard deviation probability of a conclusion time prediction?
+Advanced Analysis,What is the conclusion prediction of the process X in the activity Y?
+Advanced Analysis,Which activity is the most likely to happen after activity X?
+Advanced Analysis,When will case X be concluded?
+Advanced Analysis,Which processes will be concluded sucssesfully by the end of today?
+Advanced Analysis,What would my process look like without activity X?
+Advanced Analysis,Where can this instance have a bottleneck?
+Advanced Analysis,What is the probability of instance X execute activity A?
+Advanced Analysis,Can I interfere in an case still in progress?
+Advanced Analysis,What is the chance that this case will be concluded above the average time of the log?
+Advanced Analysis,How much will the next activity increase the total time?
+Advanced Analysis,Which instances of the process indicate the future execution of task A?
+Advanced Analysis,Which activities have the greatest chance of a conformancy deviation?
+Advanced Analysis,Show me a ranked list of the probability that the real activity may happen for each wrong prediction.
+Advanced Analysis,Which cases excede the average time?
+Advanced Analysis,What is the expected duration of a case?
+Advanced Analysis,What will be the next activity and which resources does it involve?
+Advanced Analysis,How many cases may present bottlenecks according to the most common trace?
+Advanced Analysis,What is the percentage of instances may fail? What percentage of instances were predicted as success but failed? What is the percentage of error between the real process and the predictions?
+Advanced Analysis,What is the conclusion expectation for the cases opened over a week ago?
+Advanced Analysis,Will this case be approved in one day?

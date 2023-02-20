@@ -1,0 +1,39 @@
+Category,Question,Clarity,Explanation,Code,Notes
+Event Log Data,What is the most complex case?,3,It is hard to say what the most complex case mean - most events, cases, etc. , , 
+Event Log Data,Which are the longest and shortest cases in average?
+Analysis,Does this log adhere to the standard process?
+Event Log Data,What should I do to view the most frequent cases?
+Event Log Data,What is the most common flow of activities?
+Event Log Data,What is the mean lead time of the process instances completed today?
+Analysis,Which bottlenecks take more time?
+Analysis,What are the main bottlenecks in the process?
+Analysis,What are the bottlenecks?
+Analysis,What are the main bottlenecks in the process?
+Event Log Data,What percentage of cases follow the most common trace?
+Analysis,What are the possible root causes of slow activities in my process?
+Analysis,What is the biggest bottleneck in the log?
+Event Log Data,What are the most executed activities?
+Advanced Analysis,Is there something special I should worry about this weekend?
+Event Log Data,Which activity has the highest mean resolution time?
+Analysis,Where am I wasting the most time in the process?
+Event Log Data,Size of my log
+Event Log Data,Which is the standard model path?
+Event Log Data,Which activity takes longer to be executed?
+Analysis,How many services do not conform to the online sales model?
+Event Log Data,How many variants are there in the process?
+Analysis,What activities are time bottlenecks in the process?
+Event Log Data,What are the 10% slower cases?
+Analysis,What are the current top 3 temporal bottlenecks in my operation?
+Analysis,"Show me the main conformance issues sorted by their frequency or score, if possible."
+Analysis,What activity causes the worst bottleneck in the main variant?
+Process Model,What is the process model underlined in this log?
+Event Log Data,Show me the trace with the longest duration in hours? What is the average?
+Analysis,Which is the bottleneck that impacts the process the most?
+Event Log Data,Could you show me the variants with more than 10 cases for which the throughput time is more than 3 times the model’s average throughput time?
+Analysis,Is there any conformance issue?
+Event Log Data,What is the average number of events per case?
+Event Log Data,How many different activities are there?
+Event Log Data,What is the average process execution time?
+Event Log Data,Which is the least frequent activity in the process?
+Event Log Data,Which activity takes longer to execute?
+Analysis,Which resource currently has the longest queue of activities?

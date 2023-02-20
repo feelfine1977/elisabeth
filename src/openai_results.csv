@@ -1,0 +1,7 @@
+prompt,result
+"can you write the query for sqllite database to answer the question: :
+
+ What is the average case duration?","
+
+SELECT AVG(duration) FROM cases;"
+

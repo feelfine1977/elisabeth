@@ -1,0 +1,258 @@
+id,query,result
+0,"
+
+SELECT case_id, COUNT(event) AS 'Number of Events' 
+FROM eventlog 
+GROUP BY case_id 
+ORDER BY COUNT(event) DESC 
+LIMIT 1;","('1', 10)"
+3,"
+
+SELECT case_id, COUNT(*) AS frequency 
+FROM eventlog 
+GROUP BY case_id 
+ORDER BY frequency DESC;","('1', 10)"
+3,"
+
+SELECT case_id, COUNT(*) AS frequency 
+FROM eventlog 
+GROUP BY case_id 
+ORDER BY frequency DESC;","('4', 6)"
+3,"
+
+SELECT case_id, COUNT(*) AS frequency 
+FROM eventlog 
+GROUP BY case_id 
+ORDER BY frequency DESC;","('3', 6)"
+3,"
+
+SELECT case_id, COUNT(*) AS frequency 
+FROM eventlog 
+GROUP BY case_id 
+ORDER BY frequency DESC;","('2', 6)"
+3,"
+
+SELECT case_id, COUNT(*) AS frequency 
+FROM eventlog 
+GROUP BY case_id 
+ORDER BY frequency DESC;","('5', 3)"
+4,"
+
+SELECT event, COUNT(*) as count FROM eventlog GROUP BY event ORDER BY count DESC LIMIT 1;","('create Purchase Order', 5)"
+5,"
+
+SELECT AVG(timestamp)
+FROM eventlog
+WHERE event = 'completed'
+AND date(timestamp) = date('now')","(None,)"
+10,"
+
+SELECT COUNT(*) * 100.0 / (SELECT COUNT(*) FROM eventlog) AS Percentage
+FROM eventlog
+WHERE event = (SELECT event FROM eventlog
+               GROUP BY event
+               ORDER BY COUNT(*) DESC
+               LIMIT 1);","(16.129032258064516,)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('create Purchase Order', 5)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('Release Purchase Order', 5)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('event2', 4)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('event1', 4)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('Clear Invoice', 3)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('event5', 2)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('event4', 2)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('event3', 2)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('Receive Invoice', 2)"
+13,"
+
+SELECT event, COUNT(*) AS count 
+FROM eventlog 
+GROUP BY event 
+ORDER BY count DESC;","('Receive Goods', 2)"
+15,"
+
+SELECT event, AVG(timestamp) AS avg_res_time
+FROM eventlog
+GROUP BY event
+ORDER BY avg_res_time DESC
+LIMIT 1;","('event5', 2018.0)"
+17,"
+
+SELECT COUNT(*) AS 'Size of Log' FROM eventlog;","(31,)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('event5', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('event4', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('event3', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('event2', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('event1', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('create Purchase Order', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('Release Purchase Order', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('Receive Invoice', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('Receive Goods', 0)"
+19,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS duration 
+FROM eventlog 
+GROUP BY event 
+ORDER BY duration DESC;","('Clear Invoice', 0)"
+21,"
+
+SELECT COUNT(DISTINCT event) FROM eventlog;","(10,)"
+33,"
+
+SELECT COUNT(DISTINCT event) FROM eventlog;","(10,)"
+35,"
+
+SELECT event, COUNT(*) AS frequency 
+FROM eventlog 
+GROUP BY event 
+ORDER BY frequency ASC 
+LIMIT 1;","('Receive Goods', 2)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('event5', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('event4', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('event3', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('event2', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('event1', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('create Purchase Order', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('Release Purchase Order', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('Receive Invoice', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('Receive Goods', 0)"
+36,"
+
+SELECT event, MAX(timestamp) - MIN(timestamp) AS Execution_Time 
+FROM eventlog 
+GROUP BY event 
+ORDER BY Execution_Time DESC;","('Clear Invoice', 0)"

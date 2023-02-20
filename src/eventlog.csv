@@ -1,0 +1,18 @@
+case_id,event,timestamp,User, Company_Code, Material_Number, Supplier_ID
+1,create Purchase Order,2018-01-01 00:00:00,User1,Company1,Material1,Supplier1
+1,Release Purchase Order,2018-01-02 00:03:00,User1,Company1,Material1,Supplier1
+1,Receive Goods,2018-01-03 00:00:00,User1,Company1,Material1,Supplier1
+1,Receive Invoice,2018-01-03 12:00:00,User1,Company1,Material1,Supplier1
+1,Clear Invoice,2018-01-05 00:00:00,User1,Company1,Material1,Supplier1
+2,create Purchase Order,2018-01-06 00:00:00,User2,Company2,Material2,Supplier2
+2,Release Purchase Order,2018-01-07 00:00:00,User2,Company2,Material2,Supplier2
+2,Receive Invoice,2018-01-08 00:00:00,User2,Company2,Material2,Supplier2
+3,create Purchase Order,2018-01-09 00:00:00,User3,Company3,Material3,Supplier1
+3,Release Purchase Order,2018-01-10 00:00:00,User3,Company3,Material3,Supplier1
+3,Receive Goods,2018-01-10 12:30:05,User3,Company3,Material3,Supplier1
+4,create Purchase Order,2018-01-11 00:00:00,User4,Company4,Material4,Supplier1
+4,Release Purchase Order,2018-01-12 00:00:00,User4,Company4,Material4,Supplier1
+4,Clear Invoice,2018-01-13 00:00:00,User4,Company4,Material4,Supplier1
+5,create Purchase Order,2018-01-11 00:00:00,User4,Company4,Material4,Supplier1
+5,Release Purchase Order,2018-01-12 00:00:00,User4,Company4,Material4,Supplier1
+5,Clear Invoice,2018-01-13 00:00:00,User4,Company4,Material4,Supplier1
